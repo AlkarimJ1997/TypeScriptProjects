@@ -6,6 +6,12 @@ Projects are presented in alphabetical order and include
 
 -   Landing Pages
 -   Games
--   React Courses
+-   Full Stack Applications
 -   Miscellaneous Projects
 
+## Shopping Cart
+
+Shopping Cart application built with TypeScript and React.
+
+![Main Page](https://raw.githubusercontent.com/AlkarimJ1997/TypeScriptProjects/assets/images/1.png)
+![Shopping Cart](https://raw.githubusercontent.com/AlkarimJ1997/TypeScriptProjects/assets/images/2.png)
